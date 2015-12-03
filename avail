@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int date;
+char cin;
+clrscr();
+printf("Enter the date of the movie");
+scanf("%d",&date);
+printf("Select the cinema nearby you");
+scanf("%ch",&cin);
+getch();
+}
