@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("movie7");
+printf("movie6");
+printf("movie4");
+printf("movie3");
+printf("movie2");
+getch();
+
+}
