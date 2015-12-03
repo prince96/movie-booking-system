@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char n,ad;
+int a;
+printf("Enter name");
+scanf("%ch"&n);
+printf("Enter address");
+scanf("%ch",&ad);
+getch();
+
+}
